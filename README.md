@@ -1,7 +1,3 @@
-Here is your **GitHub README.md content** for your **BERT-based COVID Tweet Classification** project, formatted with **headings, step-by-step setup instructions, and explanations** for easy reference.
-
----
-
 # **BERT COVID Tweet Classification**  
 📢 **A deep learning project using BERT to classify COVID-19-related tweets with high accuracy.**  
 
